@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: karisdb-cli
+Version: 0.1.0
+Summary: Python CLI frontend for the KarisDB Go Core
+Requires-Python: >=3.11
